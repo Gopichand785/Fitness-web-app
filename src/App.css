@@ -3,6 +3,9 @@
   .mobile{
       display: block;
   }
+  .desktop{
+    display: block;
+  }
 }
 
 /*Google fonts*/
